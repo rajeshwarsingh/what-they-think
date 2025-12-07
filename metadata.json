@@ -1,0 +1,5 @@
+{
+  "name": "What They Might Think",
+  "description": "An AI-powered social signal analyzer that interprets public content to generate playful, probabilistic summaries of what someone might think about you.",
+  "requestFramePermissions": []
+}
